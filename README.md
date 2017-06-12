@@ -1,3 +1,4 @@
+I forked this so I have a copy of it.
 # ESP8266 Deauther
 Deauthentication attack and other 'hacks' using an ESP8266.
 
